@@ -38,4 +38,4 @@ Search [open](https://github.com/brewsci/homebrew-science/issues?state=open) and
 
 ## Contributing
 
-Please see the [contributing guide](https://github.com/brewsci/homebrew-science/blob/master/.github/CONTRIBUTING.md).
+Please see the [contributing guide](https://github.com/brewsci/homebrew-science/blob/master/CONTRIBUTING.md).
